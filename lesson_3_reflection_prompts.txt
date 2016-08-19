@@ -19,4 +19,8 @@ What is the benefit of having a copy of the last known state of the remote store
 	In case of long time disconnect between us & remote it would be good to have last known
 	state of the remote stored locally so that when we connect back we can synch.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	I may use Google Drive to collaborate if I not to use Git or Github. It will be easier when 
+	everyone work on their own files. But it will be harder when more than one person need to work on
+	same file that too particularly code files.
 	
