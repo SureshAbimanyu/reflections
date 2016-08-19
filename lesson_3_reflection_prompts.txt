@@ -23,4 +23,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	I may use Google Drive to collaborate if I not to use Git or Github. It will be easier when 
 	everyone work on their own files. But it will be harder when more than one person need to work on
 	same file that too particularly code files.
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+	If I am the only one or very few people working a particular project then we can directly use master.
+	However if large number of people work on same project & files then it will be better to have branches 
+	to maintain clean code.
+	
 	
